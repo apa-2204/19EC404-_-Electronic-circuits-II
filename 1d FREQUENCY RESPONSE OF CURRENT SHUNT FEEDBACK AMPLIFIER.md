@@ -1,5 +1,5 @@
 ## Exp. No. 1(d)
-**Date:**  
+**Date:**  13.09.25
 
 ## FREQUENCY RESPONSE OF CURRENT SHUNT FEEDBACK AMPLIFIER
 <img width="789" height="845" alt="image" src="https://github.com/user-attachments/assets/151287ca-5058-472f-85c6-c96d7f7ac1b7" />
@@ -14,12 +14,11 @@
 <img width="787" height="613" alt="image" src="https://github.com/user-attachments/assets/ce6df7b4-b76c-4d4a-b54d-f49f67a6edc8" />
 
 # Tabulation
+<img width="1280" height="1204" alt="image" src="https://github.com/user-attachments/assets/14d83983-eda3-4857-b79e-ad2d15164aa1" />
 
 
 # Graph
-
-
-# Sample images 
+<img width="1280" height="982" alt="image" src="https://github.com/user-attachments/assets/b3248d5d-680a-4e25-86ce-0b6d0733041d" />
 
 
 ### **Result**
